@@ -37,6 +37,7 @@ main{
 
 .texts p{
     margin-top: 10px;
+    text-align: justify;
 }
 
 .name-email{
